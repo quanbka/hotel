@@ -1,0 +1,14 @@
+/*
+Theme Name: Starhotel 
+Description: Child theme for Starhotel
+Version: 1.0
+Theme URI: http://themeforest.net/user/slashdown
+Author: Slashdown
+Author URI: http://themeforest.net/user/slashdown
+License: GNU General Public License, version 2
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: starhotel
+Template: starhotel
+Tags: responsive-layout, two-columns
+*/
+@import url("../starhotel/style.css");
